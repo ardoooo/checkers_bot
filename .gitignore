@@ -1,0 +1,6 @@
+*.gch
+bin
+.idea
+build
+lib
+cmake-build-debug
